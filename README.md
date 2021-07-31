@@ -6,9 +6,16 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AndersonHJB)
 
-长期招收少儿编程、Python、数据分析、爬虫、Django、pygame 等一对一学员。
+#### 长期招收少儿编程、Python、数据分析、爬虫、Django、pygame 等一对一学员。
+
 
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+
+
+#### 公众号：AI悦创
+
+![公众号：AI悦创](README.assets/20210611150938921.jpg)
