@@ -4,6 +4,7 @@
 |---|---|---|
 |<img src="https://media3.giphy.com/media/U1yqwLgL8ZQKFu6tMn/giphy.gif" />|<img src="https://s1.ax1x.com/2020/07/16/UBO8Vx.png" />|<img src="https://s1.ax1x.com/2020/07/16/UBOtPO.png" />|
 
+![](https://github-readme-stats.vercel.app/api?username=AndersonHJB)
 
 Here are some ideas to get you started:
 
